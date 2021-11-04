@@ -1,0 +1,53 @@
+img{
+    height: 40%;
+    margin-left: 20px;
+
+}
+.giveaway{
+    text-transform: uppercase;
+    margin-top: 0%;
+    margin-left: 10px;
+
+
+}
+.info{
+    color: blue;
+    text-transform: capitalize;
+    margin-top: 5px;
+    margin-left: 10%;
+}
+
+.deadline{
+    display: flex;
+} 
+
+.btn{
+cursor: pointer;
+background: rgb(51, 43, 43);
+color: white;
+}
+.btn1{
+cursor: pointer;
+background: rgb(51, 43, 43);
+color: white;
+}
+.btn2{
+cursor: pointer;
+background: rgb(51, 43, 43);
+color: white;
+}
+.btn3{
+cursor: pointer;
+background: rgb(51, 43, 43);
+color: white;
+}
+
+.btns{
+    margin-left: 10px;
+    /* height: 20%; */
+}
+
+.holder{
+    margin-top: 10px;
+    cursor:pointer;
+}
